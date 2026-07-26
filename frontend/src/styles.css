@@ -566,6 +566,7 @@ main {
 }
 
 .score-ring {
+  position: relative;
   width: 138px;
   height: 138px;
   margin: auto;
